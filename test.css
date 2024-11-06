@@ -14,7 +14,7 @@ body{
     background-color: white;
 }
 #secondid{
-    padding: 100px;
+    padding: 10px;
 }
 #imageid{
     padding: 50px;
@@ -41,5 +41,19 @@ body{
 
 }
 .btn:hover{
+    scale:1.1
+}
+.google{
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    margin: 8px;
+    padding: 8px;
+    transition: all 0,6s;
+
+}
+.google:hover{
     scale:1.1
 }
