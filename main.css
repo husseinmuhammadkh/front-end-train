@@ -9,10 +9,10 @@
 #navlist>li{
     display: inline-block;
     font-size: 24px;
-    margin-right: 100px;
+    margin-right: 160px;
 }
 #logo{
-    width: 100px;
+    width: 80px;
     border-radius: 100px;
 }
 #logo:hover{
@@ -27,4 +27,32 @@
 }
 .active{
     color: green;
+}
+.newsstyle{
+    background-color: blue;
+    color: black;
+    margin: 1%;
+    padding: 10px;
+    border-style: solid;
+}
+.margin{
+    margin: -8px;
+}
+#logo2{
+    width: 320px;
+    height: 320px;
+    margin: 100px 20px 0px -10px;
+
+}
+#paragraph{
+    font-size: 20px;
+    margin: -330px 500px 100px 550px;
+}
+#skillsparagraph{
+    margin-top: 10px;
+    font-size: 21px;
+    margin: 50px; 
+}
+#strongonly{
+    font-size: 30px;
 }
