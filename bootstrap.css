@@ -1,0 +1,14 @@
+body{
+    /* background-color: red; */
+}
+.logo{
+    width: 100px;
+    height: 50px;
+}
+.nav-link1:hover{
+    color: blue;
+}
+.logoo{
+    width: 100px;
+    height: 50px;
+}

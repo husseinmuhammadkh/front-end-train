@@ -1,0 +1,30 @@
+.gridcontainer{
+    /* display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+    background-color: blue;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 200px; */
+}
+.griditem{
+    /* margin-left: 10px; */
+    /* text-align: center; */
+    /* background-color: red; */
+    /* padding: 30px; */
+    margin-left: 430px;
+    margin-right: 400px;
+    font-size: 20px;
+    font-style: italic;
+}
+.img{
+    width: 400px;
+    height: 400px;
+    margin-left: 450px;
+    border-radius: 48%;    
+}
+.button{
+    background-color: blue;
+    margin-left:600px ;
+    margin-right: 450px;
+}
