@@ -56,3 +56,12 @@
 #strongonly{
     font-size: 30px;
 }
+@media screen and (max-width:500px){
+    body{background-color: black;}
+}
+@media screen and (max-width:1024px) and (min-width:501px) {
+    .margin{
+        background-color: red;}  
+    
+    body{background-color: red;}
+}
